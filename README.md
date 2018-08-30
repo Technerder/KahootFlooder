@@ -13,8 +13,8 @@ Each bot uses ~50-80 Mb's of ram, thus using too many bots may make your machine
     
  ## Install PhantomJs
  
-    1. Download the windows version of PhantomJS from (http://phantomjs.org/download.html)
-    2. Extract phantomjs.exe from the zip file
+    1. Download the windows version of PhantomJS from (http://chromedriver.chromium.org/downloads)
+    2. Extract chromedriver.exe from the zip file
     3. Move the file to (C:\Program Files (x86)\Python)
     
  ## Setting up the bot
