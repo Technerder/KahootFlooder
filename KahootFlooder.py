@@ -34,7 +34,7 @@ def createBot(pin, name):
 
     sleep(delayBeforeLeaving)
 
-    #browser.close()
+    browser.close()
     
 for i in range(numberOfBots): 
     
