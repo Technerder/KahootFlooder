@@ -2,7 +2,7 @@
 A simple working Kahoot flooder written in Python using Selenium.
 
 # Warning
-Each bot uses ~50-80 Mb's of ram, thus using too many bots may make your machine unresponsive.
+Each bot uses ~50 Mb's of ram, thus using too many bots may make your machine unresponsive.
 
 # Usage
  
