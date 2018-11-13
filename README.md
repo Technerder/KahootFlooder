@@ -11,7 +11,7 @@ Each bot uses ~50 Mb's of ram, thus using too many bots may make your machine un
     1. Open a command prompt as admin
     2. run 'python -m pip install selenium'
     
- ## Install PhantomJs
+ ## Install ChromeDriver
  
     1. Download the windows version of the ChromeDriver from (http://chromedriver.chromium.org/downloads)
     2. Extract chromedriver.exe from the zip file
