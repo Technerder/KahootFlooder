@@ -19,7 +19,7 @@ def createBot(pin, name):
     options.add_argument("--enable-precise-memory-info")
     options.add_argument("--disable-default-apps");
     
-    browser = webdriver.Chrome(chrome_options = options)
+    browser = webdriver.Chrome(options = options)
     browser.get("http://kahoot.it")
     
     sleep(delayBetweenActions)
