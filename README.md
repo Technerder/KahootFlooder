@@ -27,5 +27,5 @@ Each bot uses ~50 Mb's of ram, thus using too many bots may make your machine un
     6. Run the bot and enjoy!
     
 # Todo
-
+   - Re-implement everything properly (direct requests with websockets as opposed to spinning up a new browser tab/process per bot)
    - Add option to bypass 2 factor joining
