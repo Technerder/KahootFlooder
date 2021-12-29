@@ -64,4 +64,3 @@ if __name__ == '__main__':
         print('Exiting...', end='')
         flooder.stop()
         print('Done!')
-    # python kahoot_flooder.py --pin=3803477 --count=5 --prefix="bot_gba"
